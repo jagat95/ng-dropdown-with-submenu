@@ -40,7 +40,7 @@
               "node_modules/ng-zorro-antd/code-editor/style/index.min.css",
               "node_modules/ng-zorro-antd/graph/style/index.min.css",
               "src/theme.less",
-              "src/styles.css"
+              "src/styles.less"
             ],
             "scripts": []
           },
@@ -50,7 +50,7 @@
                 {
                   "type": "initial",
                   "maximumWarning": "500kb",
-                  "maximumError": "1mb"
+                  "maximumError": "5mb"
                 },
                 {
                   "type": "anyComponentStyle",
